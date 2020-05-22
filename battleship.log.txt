@@ -1,0 +1,29 @@
+Player1: 2,3 "hit"
+Player2: 9,9 "miss"
+Player1: 2,4 "hit"
+Player2: 3,7 "miss"
+Player1: 2,5 "hit" Sunk Submarine!
+Player2: 1,6 "miss"
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Player1 wins, Player2 loses
+
+*** Player1 Stats ***
+Number Hits: 17
+Number Misses: 32
+Total Shots: 49
+Hit/Miss Ratio: 53%
+
+*** Player2 Stats ***
+Number Hits: 9
+Number Misses: 39
+Total Shots: 48
+Hit/Miss Ratio: 23%
