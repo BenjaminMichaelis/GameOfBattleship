@@ -1,5 +1,5 @@
 //Programmer: Benjamin Michaelis
-//Description: This is battleship run in the windows console
+//Description: This is the game of battleship run in the windows console
 
 #include "battleship.h"
 
