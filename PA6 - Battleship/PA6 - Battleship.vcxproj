@@ -23,6 +23,7 @@
     <ProjectGuid>{670C24F6-7E06-4577-ACA6-AEC6E30E283C}</ProjectGuid>
     <RootNamespace>PA6Battleship</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Battleship</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
